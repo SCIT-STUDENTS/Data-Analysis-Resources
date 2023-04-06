@@ -1,2 +1,3 @@
-# Data-Analysis-Roadmap
-Data Analysis resources and a  beginner friendly roadmap  to a Data Analyst Career.
+DATA ANALYSIS ROADMAP AND RESOURCES.
+
+Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.
